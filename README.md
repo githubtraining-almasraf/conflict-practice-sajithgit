@@ -2,8 +2,9 @@
 
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 
----
 sajith made change from manual branch
+sajith made change in master at github
+>>>>>>> 7b32723ea1d7b876ebde47b52f03806e3b59c5f0
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
 This repository also has some baked in merge conflicts for practice. 
